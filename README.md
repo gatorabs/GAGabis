@@ -15,7 +15,8 @@ Hello, I'm Gabriel Spioni!  <img src="https://pa1.narvii.com/6618/301a8cfdc55703
 </div>
 
 ## Programming Languages 🤖
-  <img align="center" alt="ga-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="ga-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white ">
+  <img align="center" alt="ga-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="ga-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="ga-django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white ">
 </div>
