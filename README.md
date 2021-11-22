@@ -10,8 +10,8 @@ Hello, I'm Gabriel Spioni!  <img src="https://pa1.narvii.com/6618/301a8cfdc55703
   ##
 <div align="left">
   <a href="https://github.com/GAGabis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAGabis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGabis&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GAGabis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGabis&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ## Programming Languages 🤖
