@@ -7,7 +7,7 @@ Hello, I'm Gabriel Spioni!  <img src="https://pa1.narvii.com/6618/301a8cfdc55703
   <a href = "mailto:gabrielprivate123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/gabs112" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
-<img src="https://github-readme-stats.vercel.app/api?username=GAGabis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="450" height="300"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGabis&layout=compact&langs_count=7&theme=highcontrast" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GAGabis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="450" height="300"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGabis&layout=compact&langs_count=7&theme=highcontrast" width="400"  height="250"/>/>
 
 
 ## Programming Languages 🤖
