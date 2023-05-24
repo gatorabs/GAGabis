@@ -14,9 +14,4 @@ Hello, I'm Gabriel Spioni!  <img src="https://pa1.narvii.com/6618/301a8cfdc55703
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGabis&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-## Programming Languages 🤖
-  <img align="center" alt="ga-Python" src="https://cdn.discordapp.com/attachments/789602411832410145/912358110159593552/image-removebg-preview.png" width="30">
-  <img align="center" alt="ga-HTML" src="https://cdn.discordapp.com/attachments/789602411832410145/912358439043354634/image-removebg-preview.png" width="30">
-  <img align="center" alt="ga-CSS" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" width="30">
-  <img align="center" alt="ga-django"  src="https://www.panops.com.br/img/django.02711c2c.png" width="30">
-</div>
+
